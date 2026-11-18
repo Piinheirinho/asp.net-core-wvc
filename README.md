@@ -2,3 +2,6 @@
 
 # docker 
 docker compose up -d
+
+# dotnet 
+dotnet run
